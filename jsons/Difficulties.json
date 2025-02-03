@@ -81,7 +81,7 @@
 		"aiBuildingMaintenanceModifier": 0.02,
 		"aiUnitMaintenanceModifier": 0.02,
 		"aiUnitSupplyModifier": 0.02,
-		"aiFreeTechs": ["Biology","Electricity","Steam Power","Dynamite"],
+		"aiFreeTechs": ["Archaeology","Scientific Theory","Industrialization","Rifling","Military Science","Fertilizer","Biology","Steam Power"],
 		"aiMajorCivBonusStartingUnits": ["Settler", "Settler", "Worker", "Worker", "Scout", "Era Starting Unit", "Era Starting Unit", "Era Starting Unit"],
 		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 0.01,
