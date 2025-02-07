@@ -1,7 +1,4 @@
-[
-	{
-		"name": "Sandbox",
-		"baseHappiness": 100,
+["baseHappiness": 75,
 		"extraHappinessPerLuxury": 100,
 		"researchCostModifier": 0.9,
 		"unitCostModifier": 0.01,
@@ -14,19 +11,19 @@
 		"barbarianSpawnDelay": 0,
 		"playerBonusStartingUnits": [],
 		//ai
-		"aiCityGrowthModifier": 1,		
-		"aiUnitCostModifier": 1,		
-		"aiBuildingCostModifier": 1,		
-		"aiWonderCostModifier": 1,		
-		"aiBuildingMaintenanceModifier": 1,	
-		"aiUnitMaintenanceModifier": 1,
-		"aiUnitSupplyModifier": 0.5,
+		"aiCityGrowthModifier": 0.01,
+		"aiUnitCostModifier": 0.01,
+		"aiBuildingCostModifier": 0.01,
+		"aiWonderCostModifier": 0.01,
+		"aiBuildingMaintenanceModifier": 0.01,
+		"aiUnitMaintenanceModifier": 0.01,
+		"aiUnitSupplyModifier": 0.01,
 		"aiFreeTechs": [],
-		"aiMajorCivBonusStartingUnits": [],
+		"aiMajorCivBonusStartingUnits": ["Settler", "Settler", "Worker", "Worker", "Scout", "Era Starting Unit", "Era Starting Unit", "Era Starting Unit"],
 		"aiCityStateBonusStartingUnits": [],
-		"aiUnhappinessModifier": 0.6,
+		"aiUnhappinessModifier": 0.01,
 		"aisExchangeTechs": true,
-		"turnBarbariansCanEnterPlayerTiles": 0,	
+		"turnBarbariansCanEnterPlayerTiles": 0,
 		"clearBarbarianCampReward": 25
 	},
 	{
